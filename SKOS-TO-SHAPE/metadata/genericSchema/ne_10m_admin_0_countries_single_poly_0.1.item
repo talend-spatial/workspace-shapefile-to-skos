@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_gBVLYDeHEeWXBugS5X2rDg" dataPackage="_gBVLYTeHEeWXBugS5X2rDg"/>
+  <TalendMetadata:GenericPackage xmi:id="_gBVLYTeHEeWXBugS5X2rDg" dataManager="_gBVLYDeHEeWXBugS5X2rDg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_gBVLYjeHEeWXBugS5X2rDg" id="_fpZzkTeHEeWXBugS5X2rDg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLYzeHEeWXBugS5X2rDg" label="the_geom" talendType="id_Geometry"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLZDeHEeWXBugS5X2rDg" label="scalerank" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLZTeHEeWXBugS5X2rDg" label="featurecla" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLZjeHEeWXBugS5X2rDg" label="LABELRANK" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLZzeHEeWXBugS5X2rDg" label="SOVEREIGNT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLaDeHEeWXBugS5X2rDg" label="SOV_A3" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLaTeHEeWXBugS5X2rDg" label="ADM0_DIF" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLajeHEeWXBugS5X2rDg" label="LEVEL" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLazeHEeWXBugS5X2rDg" label="TYPE" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLbDeHEeWXBugS5X2rDg" label="ADMIN" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLbTeHEeWXBugS5X2rDg" label="ADM0_A3" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLbjeHEeWXBugS5X2rDg" label="GEOU_DIF" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLbzeHEeWXBugS5X2rDg" label="GEOUNIT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLcDeHEeWXBugS5X2rDg" label="GU_A3" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLcTeHEeWXBugS5X2rDg" label="SU_DIF" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLcjeHEeWXBugS5X2rDg" label="SUBUNIT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLczeHEeWXBugS5X2rDg" label="SU_A3" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLdDeHEeWXBugS5X2rDg" label="BRK_DIFF" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLdTeHEeWXBugS5X2rDg" label="NAME" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLdjeHEeWXBugS5X2rDg" label="NAME_LONG" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLdzeHEeWXBugS5X2rDg" label="BRK_A3" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLeDeHEeWXBugS5X2rDg" label="BRK_NAME" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLeTeHEeWXBugS5X2rDg" label="BRK_GROUP" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLejeHEeWXBugS5X2rDg" label="ABBREV" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLezeHEeWXBugS5X2rDg" label="POSTAL" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLfDeHEeWXBugS5X2rDg" label="FORMAL_EN" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLfTeHEeWXBugS5X2rDg" label="FORMAL_FR" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLfjeHEeWXBugS5X2rDg" label="NOTE_ADM0" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLfzeHEeWXBugS5X2rDg" label="NOTE_BRK" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLgDeHEeWXBugS5X2rDg" label="NAME_SORT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLgTeHEeWXBugS5X2rDg" label="NAME_ALT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLgjeHEeWXBugS5X2rDg" label="MAPCOLOR7" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLgzeHEeWXBugS5X2rDg" label="MAPCOLOR8" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLhDeHEeWXBugS5X2rDg" label="MAPCOLOR9" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLhTeHEeWXBugS5X2rDg" label="MAPCOLOR13" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLhjeHEeWXBugS5X2rDg" label="POP_EST" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLhzeHEeWXBugS5X2rDg" label="GDP_MD_EST" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLiDeHEeWXBugS5X2rDg" label="POP_YEAR" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLiTeHEeWXBugS5X2rDg" label="LASTCENSUS" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLijeHEeWXBugS5X2rDg" label="GDP_YEAR" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLizeHEeWXBugS5X2rDg" label="ECONOMY" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLjDeHEeWXBugS5X2rDg" label="INCOME_GRP" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLjTeHEeWXBugS5X2rDg" label="WIKIPEDIA" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLjjeHEeWXBugS5X2rDg" label="FIPS_10_" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLjzeHEeWXBugS5X2rDg" label="ISO_A2" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLkDeHEeWXBugS5X2rDg" label="ISO_A3" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLkTeHEeWXBugS5X2rDg" label="ISO_N3" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLkjeHEeWXBugS5X2rDg" label="UN_A3" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLkzeHEeWXBugS5X2rDg" label="WB_A2" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLlDeHEeWXBugS5X2rDg" label="WB_A3" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLlTeHEeWXBugS5X2rDg" label="WOE_ID" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLljeHEeWXBugS5X2rDg" label="WOE_ID_EH" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLlzeHEeWXBugS5X2rDg" label="WOE_NOTE" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLmDeHEeWXBugS5X2rDg" label="ADM0_A3_IS" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLmTeHEeWXBugS5X2rDg" label="ADM0_A3_US" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLmjeHEeWXBugS5X2rDg" label="ADM0_A3_UN" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLmzeHEeWXBugS5X2rDg" label="ADM0_A3_WB" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLnDeHEeWXBugS5X2rDg" label="CONTINENT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLnTeHEeWXBugS5X2rDg" label="REGION_UN" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLnjeHEeWXBugS5X2rDg" label="SUBREGION" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLnzeHEeWXBugS5X2rDg" label="REGION_WB" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLoDeHEeWXBugS5X2rDg" label="NAME_LEN" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLoTeHEeWXBugS5X2rDg" label="LONG_LEN" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLojeHEeWXBugS5X2rDg" label="ABBREV_LEN" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLozeHEeWXBugS5X2rDg" label="TINY" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLpDeHEeWXBugS5X2rDg" label="HOMEPART" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLpTeHEeWXBugS5X2rDg" label="EU10" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLpjeHEeWXBugS5X2rDg" label="EU15" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLpzeHEeWXBugS5X2rDg" label="EFTA4" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLqDeHEeWXBugS5X2rDg" label="EU27" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLqTeHEeWXBugS5X2rDg" label="EU28" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLqjeHEeWXBugS5X2rDg" label="EEA32" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLqzeHEeWXBugS5X2rDg" label="EEA33" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBVLrDeHEeWXBugS5X2rDg" label="EEA39" talendType="id_Integer"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

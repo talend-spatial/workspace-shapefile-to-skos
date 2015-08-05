@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_aV0RsDeVEeWh2v3BLlSMjg" comment="connectionComment" label="connectionLabel" dataPackage="_aV0RsTeVEeWh2v3BLlSMjg"/>
+  <TalendMetadata:GenericPackage xmi:id="_aV0RsTeVEeWh2v3BLlSMjg" dataManager="_aV0RsDeVEeWh2v3BLlSMjg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_aV0RsjeVEeWh2v3BLlSMjg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aV0RszeVEeWh2v3BLlSMjg" name="ISO_A3" id="8362" label="ISO_A3" talendType="id_String">
+        <initialValue xmi:id="_aV0RtDeVEeWh2v3BLlSMjg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aV0RtTeVEeWh2v3BLlSMjg" name="EU10" id="8383" label="EU10" talendType="id_Integer">
+        <initialValue xmi:id="_aV0RtjeVEeWh2v3BLlSMjg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aV0RtzeVEeWh2v3BLlSMjg" name="EU15" id="8384" label="EU15" talendType="id_Integer">
+        <initialValue xmi:id="_aV0RuDeVEeWh2v3BLlSMjg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aV0RuTeVEeWh2v3BLlSMjg" name="EFTA4" id="8385" label="EFTA4" talendType="id_Integer">
+        <initialValue xmi:id="_aV0RujeVEeWh2v3BLlSMjg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aV0RuzeVEeWh2v3BLlSMjg" name="EU27" id="8386" label="EU27" talendType="id_Integer">
+        <initialValue xmi:id="_aV0RvDeVEeWh2v3BLlSMjg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aV0RvTeVEeWh2v3BLlSMjg" name="EU28" id="8387" label="EU28" talendType="id_Integer">
+        <initialValue xmi:id="_aV0RvjeVEeWh2v3BLlSMjg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aV0RvzeVEeWh2v3BLlSMjg" name="EEA32" id="8388" label="EEA32" talendType="id_Integer">
+        <initialValue xmi:id="_aV0RwDeVEeWh2v3BLlSMjg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aV0RwTeVEeWh2v3BLlSMjg" name="EEA33" id="8389" label="EEA33" talendType="id_Integer">
+        <initialValue xmi:id="_aV0RwjeVEeWh2v3BLlSMjg"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aV0RwzeVEeWh2v3BLlSMjg" name="EEA39" id="8390" label="EEA39" talendType="id_Integer">
+        <initialValue xmi:id="_aV0RxDeVEeWh2v3BLlSMjg"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

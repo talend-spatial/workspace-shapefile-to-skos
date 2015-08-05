@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="shapefileDir" prompt="shapefileDir?" promptNeeded="false" type="id_Directory" value="/home/francois/data/naturalearth/toskos/"/>
+  <contextParameter comment="" name="ne_110m_admin_0_countries" prompt="ne_110m_admin_0_countries?" promptNeeded="false" type="id_String" value="&quot;ne_10m_admin_0_countries&quot;"/>
+  <contextParameter comment="" name="ne_110m_admin_0_sovereignty" prompt="ne_110m_admin_0_sovereignty?" promptNeeded="false" type="id_String" value="&quot;ne_110m_admin_0_sovereignty&quot;"/>
+  <contextParameter comment="" name="ne_110m_admin_1_states_provinces" prompt="ne_110m_admin_1_states_provinces?" promptNeeded="false" type="id_String" value="&quot;ne_110m_admin_1_states_provinces&quot;"/>
+  <contextParameter comment="" name="ne_110m_populated_places" prompt="ne_110m_populated_places?" promptNeeded="false" type="id_String" value="&quot;ne_110m_populated_places&quot;"/>
+  <contextParameter comment="" name="aboutprefix" prompt="aboutprefix?" promptNeeded="false" type="id_String" value="&quot;ne_admin&quot;"/>
+  <contextParameter comment="" name="countrygroups" prompt="countrygroups?" promptNeeded="false" type="id_String" value="&quot;countrygroups.csv&quot;"/>
+  <contextParameter comment="" name="skosTitle" prompt="skosTitle?" promptNeeded="false" type="id_String" value="&quot;Continent, country, sea region of the world.&quot;"/>
+  <contextParameter comment="" name="skosDesc" prompt="skosDesc?" promptNeeded="false" type="id_String" value="&quot;Generated from NaturalEarth datasets.&quot;"/>
+  <contextParameter comment="" name="skosDateIssued" prompt="skosDateIssued?" promptNeeded="false" type="id_String" value="2015-07-17 12:00:00"/>
+  <contextParameter comment="" name="skosRdfAboutPrefix" prompt="skosRdfAboutPrefix?" promptNeeded="false" type="id_String" value="&quot;http://www.naturalearthdata.com/&quot;"/>
+</talendfile:ContextType>
